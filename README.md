@@ -1,4 +1,5 @@
 # winofsql-basic-operation
 
 ### テーブル削除
-![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/d2045ebf-376d-4b82-861d-05e92d4493e4)
+![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/5ec5b98e-afab-4dfa-99fd-0d0c273c6309)
+
