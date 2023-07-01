@@ -8,7 +8,9 @@
 
 ### CREATE 文の作成
 ![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/57701416-2881-4df1-86a7-cc6aea88c141)\
-![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/a3d5e81d-bce6-4818-96cd-d15d835b301c)
+![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/a3d5e81d-bce6-4818-96cd-d15d835b301c)\
+![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/ad824f8c-072a-43e6-922f-7842086ea2c6)
+
 
 
 
