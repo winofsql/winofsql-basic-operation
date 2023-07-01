@@ -13,6 +13,8 @@
 ![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/e4d4e1e5-a0a3-409c-abd9-7b764c655274)\
 ![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/d8005392-e029-43c4-99ff-9864435702e1)
 
+### 表定義をロード後変更する CREATE 文の作成
+![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/6858af8e-2c59-40ca-a115-cbe2ec839cc9)
 
 
 
