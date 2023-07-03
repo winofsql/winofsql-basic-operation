@@ -17,6 +17,9 @@
 ![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/6858af8e-2c59-40ca-a115-cbe2ec839cc9)
 
 ### CSV出力( SQL による実行 )
+```sql
+SET character_set_filesystem = 'cp932'
+```
 ![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/61ef9a4b-0a27-416f-853b-e3d6c019c1ef)\
 ![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/03ed7267-bf2e-413b-8b52-bbf3ddc2a4d1)
 
