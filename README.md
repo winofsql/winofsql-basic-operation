@@ -23,6 +23,7 @@ SET character_set_filesystem = 'cp932'
 ![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/61ef9a4b-0a27-416f-853b-e3d6c019c1ef)\
 ![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/03ed7267-bf2e-413b-8b52-bbf3ddc2a4d1)
 
+### C:\xampp\mysql\bin\my.ini
 ![image](https://github.com/winofsql/winofsql-basic-operation/assets/1501327/31e7bbaa-1f9d-43aa-a623-e31a86a99075)
 
 
